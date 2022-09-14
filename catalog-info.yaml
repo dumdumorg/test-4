@@ -1,4 +1,4 @@
-apiVersion: app-techdocs.com/v1.0.0
+apiVersion: app-techdocs.com/v1
 kind: Component
 metadata:
   name: example
