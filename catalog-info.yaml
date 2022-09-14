@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: example
+  name: hellohello
   description: example.com
   annotations:
-    github.com/project-slug: value
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: website
   lifecycle: production
