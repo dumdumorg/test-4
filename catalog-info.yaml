@@ -1,13 +1,9 @@
-apiVersion: app-techdocs.com/v1
-kind: Component
+apiVersion: backstage.io/v1alpha1
+kind: API
 metadata:
-  name: example
-  description: example.com
+  name: petstore
+  description: The Petstore API
   annotations:
-    github.com/dumdumorg: dir:.
-spec:
-  type: website
-  lifecycle: production
-  owner: user:guest
+    github.com/dumdumorg: dir:docs
 
 
