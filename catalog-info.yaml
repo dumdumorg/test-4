@@ -5,5 +5,8 @@ metadata:
   description: The Petstore API
   annotations:
     github.com/dumdumorg: dir:docs
-
+spec:
+  type: openapi
+  lifecycle: production
+  owner: user:guest
 
