@@ -1,8 +1,5 @@
 site_name: 'Test 4'
 site_description: 'Documentation for Test 4'
-
-plugins:
-  - techdocs-core
   
 nav:
   - Overview:
