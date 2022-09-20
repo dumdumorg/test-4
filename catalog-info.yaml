@@ -3,7 +3,7 @@ kind: API
 metadata:
   name: petstore
   annotations:
-    backstage.io/techdocs-ref: dir:.
+    backstage.io/techdocs-ref: dir:./
 spec:
   type: openapi
   lifecycle: production
